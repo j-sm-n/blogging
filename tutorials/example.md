@@ -1,5 +1,17 @@
-# Review of: BLOG NAME/LINK
+# Review of: [Part 1: Introduction and Installation (Go)](https://golangbot.com/golang-tutorial-part-1-introduction-and-installation/)
 
-## Three Things I Liked
+### Three Things I Liked
 
-## Three Things I'd Do Differently
+1.
+
+2.
+
+3.
+
+### Three Things I'd Do Differently
+
+1.
+
+2.
+
+3.
